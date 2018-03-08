@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "7CA3E47F-4568-45C8-A136-5A93A572C0BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 189,
+    "x": 65,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A77AC15-6E0B-4B54-ACA1-B0C40B4D693F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8BE48D1-96DD-4195-A091-FC47FEDD646B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89028EB8-90E2-4C7D-BA93-5C1310F1CA17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC7E1F7F-4C0D-48F0-9C55-9C2F9D123E0F"
+    }
+  ],
+  "name": "Donut chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
