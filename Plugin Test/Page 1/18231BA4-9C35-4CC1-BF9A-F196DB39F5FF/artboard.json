@@ -40,15 +40,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "3085C457-9263-4312-AFB1-3511EE2608FC"
-    },
-    {
-      "class": "group",
-      "id": "23BBADDF-112F-4871-9CB1-F79CFEE8C334"
     }
   ],
   "name": "Mobile",
